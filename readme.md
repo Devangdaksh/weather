@@ -28,8 +28,8 @@ Get real-time weather, humidity, and wind info for any city with autocomplete an
 ## 📦 Project Structure
 
 ```
-Weather.site/
-  ├── Weather.html
+Weather/
+  ├── index.html
   ├── Weather.js
   └── images/
       ├── clear.png
