@@ -1,4 +1,4 @@
-# 🌦️ Weather.site
+# 🌦️ Weather
 
 A modern, responsive weather forecast web app built with **HTML**, **CSS (Tailwind)**, and **JavaScript**.  
 Get real-time weather, humidity, and wind info for any city with autocomplete and instant updates.
@@ -9,7 +9,7 @@ Get real-time weather, humidity, and wind info for any city with autocomplete an
 
 | Language      | % Usage | Badge                                                                 |
 |---------------|--------:|-----------------------------------------------------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)        | 40%     | [Weather.html](Weather.html) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)        | 40%     | [index.html](index.html) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) (Tailwind) | 30%     | Tailwind CDN                |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | 30%     | [Weather.js](Weather.js)    |
 
